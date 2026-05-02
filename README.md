@@ -25,6 +25,7 @@ Version 1.4.1-beta
   - ✅ Modern GUI interface
   - ✅ User authentication (SHA256 password hashing)
   - ✅ Bilingual support (English/Chinese)
+  - ✅ Upload files and share with friends!
   - ✅ Cross-platform (Windows, macOS, Linux)
 
   ### Experimental Features
