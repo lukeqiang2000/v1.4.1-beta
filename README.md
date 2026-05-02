@@ -22,7 +22,7 @@ Version 1.4.1-beta
   ### Core Features (Same as Stable Version)
   - ✅ Real-time group chat and private messaging
   - ✅ Friend system (auto-accept friend requests)
-  - ✅ Modern WeChat-style GUI interface
+  - ✅ Modern GUI interface
   - ✅ User authentication (SHA256 password hashing)
   - ✅ Bilingual support (English/Chinese)
   - ✅ Cross-platform (Windows, macOS, Linux)
